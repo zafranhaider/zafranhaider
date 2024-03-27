@@ -1,6 +1,3 @@
 - 👋 Hi, I’m @zafranhaider
-- 👀 I’m interested in SQA 
-- 🌱 I’m currently learning Python and Javascript
-- 💞️ I use Tool Like Cypress,Jmeter,Postman
-- 💞️ I Love to make Basic Automation Scripts
-
+- 👀 I’m interested in SQA and Devlopment 
+- 🌱 I’m currently learning AI And ML
