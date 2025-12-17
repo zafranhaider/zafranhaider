@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @zafranhaider A SQA with Dev Skills
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning AI And ML
+- 👋 Hi, I’m @zafranhaider 
+- 👀 I’m interested in AI/ML 
+- 🌱 I’m currently learning AI And ML 
