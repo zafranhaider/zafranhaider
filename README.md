@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @zafranhaider 
-- 👀 I’m interested in AI/ML 
-- 🌱 I’m currently learning AI And ML 
